@@ -1,8 +1,8 @@
 # Technical Test Frontend Hara Anargya
 
 ## Profile 
-* # Nama : Titis Sampurno
-* # Email : titissamp@gmail.com
+* Nama : Titis Sampurno
+* Email : titissamp@gmail.com
    
  ## Pengumpulan Tugas
  Tulis nama lengkap dan email pada readme.md repository yang di fork.
